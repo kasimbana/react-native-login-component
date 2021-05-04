@@ -1,0 +1,12 @@
+{
+  "name": "react-native-login-component",
+  "displayName": "react-native-login-component",
+  "expo": {
+    "name": "react-native-login-component",
+    "slug": "react-native-login-component",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
